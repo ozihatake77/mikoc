@@ -1,0 +1,2 @@
+# mikoc
+this is testnet
